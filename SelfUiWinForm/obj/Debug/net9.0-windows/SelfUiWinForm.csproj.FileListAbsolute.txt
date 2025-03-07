@@ -1,0 +1,16 @@
+D:\Files\Codes\Visual Studio Sources\SelfUiWinForm\bin\Debug\net9.0-windows\SelfUiWinForm.exe
+D:\Files\Codes\Visual Studio Sources\SelfUiWinForm\bin\Debug\net9.0-windows\SelfUiWinForm.dll.config
+D:\Files\Codes\Visual Studio Sources\SelfUiWinForm\bin\Debug\net9.0-windows\SelfUiWinForm.deps.json
+D:\Files\Codes\Visual Studio Sources\SelfUiWinForm\bin\Debug\net9.0-windows\SelfUiWinForm.runtimeconfig.json
+D:\Files\Codes\Visual Studio Sources\SelfUiWinForm\bin\Debug\net9.0-windows\SelfUiWinForm.dll
+D:\Files\Codes\Visual Studio Sources\SelfUiWinForm\bin\Debug\net9.0-windows\SelfUiWinForm.pdb
+D:\Files\Codes\Visual Studio Sources\SelfUiWinForm\obj\Debug\net9.0-windows\SelfUiWinForm.Properties.Resources.resources
+D:\Files\Codes\Visual Studio Sources\SelfUiWinForm\obj\Debug\net9.0-windows\SelfUiWinForm.csproj.GenerateResource.cache
+D:\Files\Codes\Visual Studio Sources\SelfUiWinForm\obj\Debug\net9.0-windows\SelfUiWinForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Files\Codes\Visual Studio Sources\SelfUiWinForm\obj\Debug\net9.0-windows\SelfUiWinForm.csproj.CoreCompileInputs.cache
+D:\Files\Codes\Visual Studio Sources\SelfUiWinForm\obj\Debug\net9.0-windows\SelfUiWinForm.dll
+D:\Files\Codes\Visual Studio Sources\SelfUiWinForm\obj\Debug\net9.0-windows\refint\SelfUiWinForm.dll
+D:\Files\Codes\Visual Studio Sources\SelfUiWinForm\obj\Debug\net9.0-windows\SelfUiWinForm.pdb
+D:\Files\Codes\Visual Studio Sources\SelfUiWinForm\obj\Debug\net9.0-windows\SelfUiWinForm.genruntimeconfig.cache
+D:\Files\Codes\Visual Studio Sources\SelfUiWinForm\obj\Debug\net9.0-windows\ref\SelfUiWinForm.dll
+D:\Files\Codes\Visual Studio Sources\SelfUiWinForm\obj\Debug\net9.0-windows\SelfUiWinForm.MainForm.resources

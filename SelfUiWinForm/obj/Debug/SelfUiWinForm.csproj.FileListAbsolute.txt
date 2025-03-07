@@ -1,0 +1,9 @@
+D:\Files\Codes\Visual Studio Sources\SelfUiWinForm\bin\Debug\SelfUiWinForm.exe.config
+D:\Files\Codes\Visual Studio Sources\SelfUiWinForm\bin\Debug\SelfUiWinForm.exe
+D:\Files\Codes\Visual Studio Sources\SelfUiWinForm\bin\Debug\SelfUiWinForm.pdb
+D:\Files\Codes\Visual Studio Sources\SelfUiWinForm\obj\Debug\SelfUiWinForm.csproj.AssemblyReference.cache
+D:\Files\Codes\Visual Studio Sources\SelfUiWinForm\obj\Debug\SelfUiWinForm.Properties.Resources.resources
+D:\Files\Codes\Visual Studio Sources\SelfUiWinForm\obj\Debug\SelfUiWinForm.csproj.GenerateResource.cache
+D:\Files\Codes\Visual Studio Sources\SelfUiWinForm\obj\Debug\SelfUiWinForm.csproj.CoreCompileInputs.cache
+D:\Files\Codes\Visual Studio Sources\SelfUiWinForm\obj\Debug\SelfUiWinForm.exe
+D:\Files\Codes\Visual Studio Sources\SelfUiWinForm\obj\Debug\SelfUiWinForm.pdb
