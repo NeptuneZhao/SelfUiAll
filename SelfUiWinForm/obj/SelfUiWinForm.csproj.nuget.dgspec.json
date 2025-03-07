@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Files\\Codes\\Visual Studio Sources\\SelfUiWinForm\\SelfUiWinForm.csproj": {}
+    "D:\\Repositories\\SelfUiAll\\SelfUiWinForm\\SelfUiWinForm.csproj": {}
   },
   "projects": {
-    "D:\\Files\\Codes\\Visual Studio Sources\\SelfUiWinForm\\SelfUiWinForm.csproj": {
+    "D:\\Repositories\\SelfUiAll\\SelfUiWinForm\\SelfUiWinForm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Files\\Codes\\Visual Studio Sources\\SelfUiWinForm\\SelfUiWinForm.csproj",
+        "projectUniqueName": "D:\\Repositories\\SelfUiAll\\SelfUiWinForm\\SelfUiWinForm.csproj",
         "projectName": "SelfUiWinForm",
-        "projectPath": "D:\\Files\\Codes\\Visual Studio Sources\\SelfUiWinForm\\SelfUiWinForm.csproj",
+        "projectPath": "D:\\Repositories\\SelfUiAll\\SelfUiWinForm\\SelfUiWinForm.csproj",
         "packagesPath": "C:\\Users\\qq183\\.nuget\\packages\\",
-        "outputPath": "D:\\Files\\Codes\\Visual Studio Sources\\SelfUiWinForm\\obj\\",
+        "outputPath": "D:\\Repositories\\SelfUiAll\\SelfUiWinForm\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

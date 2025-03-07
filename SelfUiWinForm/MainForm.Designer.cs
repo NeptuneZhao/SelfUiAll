@@ -49,21 +49,24 @@
             // StatusLabel
             // 
             StatusLabel.AutoSize = true;
-            StatusLabel.Location = new System.Drawing.Point(12, 9);
+            StatusLabel.Location = new System.Drawing.Point(10, 8);
+            StatusLabel.Margin = new Padding(2, 0, 2, 0);
             StatusLabel.Name = "StatusLabel";
-            StatusLabel.Size = new System.Drawing.Size(16, 24);
+            StatusLabel.Size = new System.Drawing.Size(14, 20);
             StatusLabel.TabIndex = 0;
             StatusLabel.Text = "!";
+            StatusLabel.Click += StatusLabel_Click;
             // 
             // MainForm
             // 
-            AutoScaleDimensions = new System.Drawing.SizeF(11F, 24F);
+            AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new System.Drawing.Size(1574, 840);
+            ClientSize = new System.Drawing.Size(1288, 700);
             Controls.Add(StatusLabel);
             FormBorderStyle = FormBorderStyle.Fixed3D;
             Icon = (System.Drawing.Icon)resources.GetObject("$this.Icon");
             ImeMode = ImeMode.Disable;
+            Margin = new Padding(2, 2, 2, 2);
             MaximizeBox = false;
             Name = "MainForm";
             ShowIcon = false;

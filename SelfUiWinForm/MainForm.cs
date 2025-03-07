@@ -21,7 +21,7 @@ namespace SelfUiWinForm
 		{
 			Text = "SelfUI - Login";
 			StatusLabel.Text = "!";
-            await Login.Start();
+			await Login.Start();
 		}
 
 		private void MainForm_LocationChanged(object sender, EventArgs e)
@@ -65,5 +65,9 @@ namespace SelfUiWinForm
 
 		}
 
+		private void StatusLabel_Click(object sender, EventArgs e)
+		{
+
+		}
 	}
 }

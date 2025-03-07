@@ -14,3 +14,20 @@ D:\Files\Codes\Visual Studio Sources\SelfUiWinForm\obj\Debug\net9.0-windows\Self
 D:\Files\Codes\Visual Studio Sources\SelfUiWinForm\obj\Debug\net9.0-windows\SelfUiWinForm.genruntimeconfig.cache
 D:\Files\Codes\Visual Studio Sources\SelfUiWinForm\obj\Debug\net9.0-windows\ref\SelfUiWinForm.dll
 D:\Files\Codes\Visual Studio Sources\SelfUiWinForm\obj\Debug\net9.0-windows\SelfUiWinForm.MainForm.resources
+D:\Repositories\SelfUiAll\SelfUiWinForm\obj\Debug\net9.0-windows\SelfUiWinForm.MainForm.resources
+D:\Repositories\SelfUiAll\SelfUiWinForm\obj\Debug\net9.0-windows\SelfUiWinForm.Properties.Resources.resources
+D:\Repositories\SelfUiAll\SelfUiWinForm\obj\Debug\net9.0-windows\SelfUiWinForm.csproj.GenerateResource.cache
+D:\Repositories\SelfUiAll\SelfUiWinForm\obj\Debug\net9.0-windows\SelfUiWinForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\SelfUiAll\SelfUiWinForm\obj\Debug\net9.0-windows\SelfUiWinForm.csproj.CoreCompileInputs.cache
+D:\Repositories\SelfUiAll\SelfUiWinForm\obj\Debug\net9.0-windows\SelfUiWinForm.sourcelink.json
+D:\Repositories\SelfUiAll\SelfUiWinForm\obj\Debug\net9.0-windows\SelfUiWinForm.dll
+D:\Repositories\SelfUiAll\SelfUiWinForm\obj\Debug\net9.0-windows\refint\SelfUiWinForm.dll
+D:\Repositories\SelfUiAll\SelfUiWinForm\obj\Debug\net9.0-windows\SelfUiWinForm.pdb
+D:\Repositories\SelfUiAll\SelfUiWinForm\bin\Debug\net9.0-windows\SelfUiWinForm.exe
+D:\Repositories\SelfUiAll\SelfUiWinForm\bin\Debug\net9.0-windows\SelfUiWinForm.dll.config
+D:\Repositories\SelfUiAll\SelfUiWinForm\bin\Debug\net9.0-windows\SelfUiWinForm.deps.json
+D:\Repositories\SelfUiAll\SelfUiWinForm\bin\Debug\net9.0-windows\SelfUiWinForm.runtimeconfig.json
+D:\Repositories\SelfUiAll\SelfUiWinForm\bin\Debug\net9.0-windows\SelfUiWinForm.dll
+D:\Repositories\SelfUiAll\SelfUiWinForm\bin\Debug\net9.0-windows\SelfUiWinForm.pdb
+D:\Repositories\SelfUiAll\SelfUiWinForm\obj\Debug\net9.0-windows\SelfUiWinForm.genruntimeconfig.cache
+D:\Repositories\SelfUiAll\SelfUiWinForm\obj\Debug\net9.0-windows\ref\SelfUiWinForm.dll

@@ -16,6 +16,7 @@
 	[SupportedOSPlatform("Windows")]
 	public partial class IdsLogin : IDisposable
 	{
+
 		public IdsLogin()
 		{
 			HandlerIds = HandlerJiaowu = new()
@@ -134,20 +135,21 @@
 
 			HttpResponseMessage lessonResponse = await JiaowuClient.PostAsync("http://jw.hitsz.edu.cn/xszykb/queryxszykbzong", lessonContent);
 
-			LogStatus("Lessons: OK");
+			LogStatus("Lessons JSON: OK");
 
 			if (lessonResponse.StatusCode == HttpStatusCode.OK)
 			{
-				string lessonHtml = await lessonResponse.Content.ReadAsStringAsync();
+				string lessonJson = await lessonResponse.Content.ReadAsStringAsync();
 				// Save in json file
-				File.WriteAllText("lessons.json", lessonHtml);
-
+				File.WriteAllText("lessons.json", lessonJson);
+				Program.LessonJson = lessonJson;
+				Program.JiaowuClient = JiaowuClient;
 			}
 		}
 
 		private static void LogStatus(string msg)
 		{
-			Program.mainForm.StatusLabel.Text += $"{msg} at {DateTime.Now:F}";
+			Program.mainForm.StatusLabel.Text += $"{msg} at {DateTime.Now:F}\n";
 			Program.mainForm.StatusLabel.Refresh();
 		}
 
